@@ -1,1 +1,0 @@
-# julideozcelik.com.tr
