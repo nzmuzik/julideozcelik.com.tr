@@ -1,5 +1,3 @@
-# Jülide Özçelik
-
 # Albümler
 
 ## Jazz Istanbul, Vol. 1
