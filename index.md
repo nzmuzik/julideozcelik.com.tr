@@ -31,3 +31,5 @@
 ### Ali'yi Gördüm Ali'yi
 
 <iframe src="https://open.spotify.com/embed/track/3oeGm7MYfaMib0AOflUHDh" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+NZ Müzik'in Youtube kanalına https://www.youtube.com/channel/UCUrZ3-1X8d2kQydL-soXPVw adresinden erişebilirsiniz.
